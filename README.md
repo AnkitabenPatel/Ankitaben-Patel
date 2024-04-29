@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankitaben Patel</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist</h3>
+<h3 align="center">Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/6120214/pexels-photo-6120214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 
  🌱 I’m currently learning *Microsoft Fabric*
